@@ -1,2 +1,0 @@
-Corredor 1
-Corredor 2
